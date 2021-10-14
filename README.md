@@ -1,18 +1,11 @@
 # APIs-Biblioteca
 Examen ingreso CIDESI
 
+Candidato: Victor Joaquin Gonzalez Mundo
 
 Hola, excelente dia a todos:
 
 Para inicializar el proyecto es necesario tener instalado NodeJS (https://nodejs.org/es/) 
-
-Para iniciar el proyecyo es necesario tener instaladas todas las dependencias con el comando
-
-      npm install
-  
-Esto instalara las dependencias de 
-
-      express, body-parser, mysql
       
 Tambien es necesario tener activo el servicio de MySQL y crear una base de datos llamada 
 
@@ -45,8 +38,9 @@ Estos valores pueden ser modificados desde el archivo
       })
       
       
-Si todo va bien, ahora solo es necesario abrir una ventana de consola, dirigirnos a la raiz de nuestro proyecto y ejecutar el comando:
-
+Si todo va bien, ahora solo es necesario abrir una ventana de consola, dirigirnos a la raiz de nuestro proyecto y ejecutar los comandos:
+      
+      npm install   
       node .\src\index.js 
       
      
